@@ -17,4 +17,4 @@ provider "azurerm" {
   tenant_id       = "7dc07ee4-bf07-4a8e-aef4-7d7dd586f13f"
 
   features {}
-}
+
